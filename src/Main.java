@@ -81,7 +81,7 @@ public class Main {
 
                 days = days + temp + intDay;
 
-                System.out.println("\n" + date + " is a ");
+                System.out.print("\n" + date + " is a ");
 
                 if(days%7==0){
                     System.out.println("Sunday");
